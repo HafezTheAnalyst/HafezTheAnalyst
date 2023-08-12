@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HafezTheAnalyst
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data anlyst
+- 🌱 I’m currently learning Data analyst
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: mahmoud.hafez.mh.2023@gmail.com
 
